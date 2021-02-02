@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nmanhit/dependabot#readme",
   "dependencies": {
-    "lodash": "3.0.1"
+    "lodash": "4.17.20"
   }
 }
