@@ -8,4 +8,4 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-    target-branch: "develop1"
+    target-branch: "dev"
