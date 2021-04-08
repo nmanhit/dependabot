@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nmanhit/dependabot#readme",
   "dependencies": {
-    "mini-css-extract-plugin": "0.2.0"
+    "mini-css-extract-plugin": "1.4.1"
   }
 }
